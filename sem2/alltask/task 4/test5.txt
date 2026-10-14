@@ -1,0 +1,4 @@
+unsigned int b = 10;
+inr a;
+long double value;
+long *p;

@@ -1,0 +1,6 @@
+short *q = &a;
+long *p;
+float c[5];
+unsigned int b = 10;
+int a;
+long double value;

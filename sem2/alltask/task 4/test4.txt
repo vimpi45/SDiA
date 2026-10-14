@@ -1,0 +1,3 @@
+long *p;
+unsigned long **pp = &p;
+short *q = &a;

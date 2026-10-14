@@ -1,0 +1,14 @@
+int a;
+unsigned int b = 10;
+float c[5];
+double d[3] = {1.1, 2.2, 3.3};
+char e[] = {'h', 'e', 'l', 'l', 'o'};
+long *p;
+unsigned long **pp = &p;
+short *q = &a;
+long double value;
+a = b;
+a = 3;
+if (c[3] == d[1]) {
+  a = 22;
+}

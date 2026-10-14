@@ -1,0 +1,52 @@
+int a;
+int b;
+int c;
+int d;
+int e;
+int f;
+int g;
+int i;
+int j;
+int h;
+int k;
+int l;
+int m;
+int n;
+int o;
+int p;
+int q;
+int r;
+int s;
+int t;
+int u;
+int w;
+int x;
+int y;
+int z;
+a = 5;
+b = 17;
+if (a < 10) {
+	a = 7
+	}
+if (b < 10) {
+	d = a
+	}
+e = 5;
+f = 17;
+g = 17;
+g = 5;
+r = 17;
+f = 1;
+t = 17;
+h = 17;
+k = 17;
+l = 17;
+m = 17;
+n = 17;
+u = u = u;
+if (a < 10) {
+	j = 7
+	}
+if (b < 10) {
+	i = a
+	}

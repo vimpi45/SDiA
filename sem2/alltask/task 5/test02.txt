@@ -1,0 +1,30 @@
+int a;
+float b;
+int c;
+float d;
+int e;
+float f;
+int g;
+float i;
+int j;
+float h;
+int k;
+float l;
+int m;
+float n;
+int o;
+float p;
+int q;
+float r;
+int s;
+float t;
+int u;
+float w;
+int x;
+float y;
+int z;
+a = 5;
+if (a < 10) {
+	a = 7
+	}
+

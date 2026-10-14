@@ -1,0 +1,38 @@
+int a;
+long double name;
+int g;
+int m;
+char t;
+unsigned int b = 10;
+float c[5];
+double d[3] = {1.1, 2.2, 3.3};
+char e[] = {'h', 'e', 'l', 'l', 'o'};
+float r[16];
+double x[3] = {1.1, 2.2, 3.3};
+float v[5];
+double w[1] = {5.6};
+long *p;
+unsigned long **pp = &p;
+short *q = &a;
+long double value;
+unsigned int s;
+long *l;
+int f;
+char z[] = {'h', 'i'};
+unsigned int o = 456;
+float k[5];
+int n;
+float j[5];
+a = b;
+a = 3;
+if (c[3] == d[1]) {
+  a = 22;
+}
+if (k[2] == d[2]) {
+  b = 44;
+}
+n = 44;
+if (n < 10) {
+  a = 15;
+}
+
